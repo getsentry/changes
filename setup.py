@@ -34,7 +34,7 @@ install_requires = [
     'blinker>=1.3,<1.4',
     'boto>=2.25.0,<2.26.0',
     'celery==4.0.2',
-    'cryptography==1.2',
+    'cryptography==3.2',
     'kombu==4.0.2',
     'enum34==1.1.2',
     'flask>=0.10.1,<0.11.0',
