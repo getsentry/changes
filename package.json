@@ -51,7 +51,7 @@
     "react-redux": "^5.0.5",
     "react-router": "2",
     "redux": "^3.7.1",
-    "urijs": "^1.18.10",
+    "urijs": "^1.19.4",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.5.0"
   },
